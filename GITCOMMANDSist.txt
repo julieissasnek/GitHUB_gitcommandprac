@@ -1,0 +1,7 @@
+# Git Commands List
+
+git init         # start a git repo
+git status       # check what changed
+git add .        # add all changes
+git commit -m "message"  # save snapshot
+git push origin main     # push to GitHub
